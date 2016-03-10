@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JNI</string>
+    <string name="jni">JNI基础</string>
+    <string name="second">第二页</string>
+</resources>
